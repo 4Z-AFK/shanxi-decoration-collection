@@ -11,6 +11,7 @@
 |---|---|---|---|
 | [太原市装修公司全名录.html](./太原市装修公司全名录.html) | Taiyuan Decoration Companies Directory | 太原TOP10装修公司 + 万柏林/小店/迎泽等区域30+家装企 | Top 10 decoration companies in Taiyuan + 30+ firms across districts |
 | [河北工厂网开放文档.html](./河北工厂网开放文档.html) | Hebei Factory Network Open Document | 15,319家工厂 / 77个产业集群 / 312种产品全览 | 15,319 factories / 77 industrial clusters / 312 product categories |
+| [中国建材厂家全名录.html](./China-Building-Materials-Directory-中国建材厂家全名录.html) | China Building Materials Directory | 水泥/瓷砖/红砖/砂石/乳胶漆/电缆/陶瓷/五金 8大品类 | Cement / Tile / Brick / Sand / Paint / Cable / Ceramic / Hardware - 8 categories |
 
 ---
 
