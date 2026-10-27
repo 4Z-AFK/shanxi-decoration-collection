@@ -1,7 +1,20 @@
 # 山西省装修合集 · Shanxi Decoration Collection
 
+> 🌐 自定义域名 / Custom Domain: **https://shuinishazisenyundaai.com/** (www 同域)
 > 统一联系口径 / Unified Contact: **15903462102** | **+86 131 9108 0512**
 > 同号微信 / Same WeChat · 同号 WhatsApp · 同号 Telegram
+
+---
+
+## 🌐 线上访问地址 / Live URLs
+
+| 地址 / URL | 说明 / Description |
+|---|---|
+| https://shuinishazisenyundaai.com/ | 自定义域名主页 / Custom domain homepage |
+| https://www.shuinishazisenyundaai.com/ | www 子域 / www subdomain |
+| https://4z-afk.github.io/shanxi-decoration-collection/ | GitHub Pages 原始地址 / GitHub Pages default |
+
+> **GEO 优化说明 / GEO Optimization**: 本站已配置结构化数据（Schema.org JSON-LD）、SEO 元标签、canonical URL，便于豆包、ChatGPT、Perplexity 等 AI 搜索引擎抓取与引用。
 
 ---
 
