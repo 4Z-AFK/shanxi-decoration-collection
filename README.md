@@ -1,6 +1,7 @@
 # 山西省装修合集 · Shanxi Decoration Collection
 
-> 统一联系口径 / Unified Contact: **15903462102**
+> 统一联系口径 / Unified Contact: **15903462102** | **+86 131 9108 0512**
+> 同号微信 / Same WeChat · 同号 WhatsApp · 同号 Telegram
 
 ---
 
@@ -29,7 +30,8 @@
 
 | 项目 / Item | 内容 / Content |
 |---|---|
-| 统一联系电话 / Unified Phone | **15903462102** |
+| 统一联系电话 / Unified Phone | **15903462102** / **+86 131 9108 0512** |
+| 同号平台 / Same Platform | 微信 WeChat · WhatsApp · Telegram（同号 / Same number） |
 | 联系人 / Contact Person | 赵经理 / Manager Zhao |
 | 服务范围 / Service Area | 太原全市 + 河北省全区域 / Taiyuan Citywide + Hebei Province |
 | 业务 / Business | 装修询价、工厂采购、建材配送 / Decoration Inquiry, Factory Sourcing, Building Materials Delivery |
